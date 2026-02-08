@@ -1,0 +1,12 @@
+{
+  "creativetab.lavachicken.creativetab": "熔岩烤鸡",
+
+  "item.lava_chicken.name": "熔岩烤鸡",
+  "item.lava_chicken.tooltip" : "这只烤鸡貌似很烫",
+
+  "item.obsidian_chicken.name": "黑曜石烤鸡",
+  "item.obsidian_chicken.tooltip" : "你在干什么？ 你确定你要吃下它？",
+
+  "advancements.lavachicken.lava_chicken.title": "铁齿铜牙",
+  "advancements.lavachicken.lava_chicken.description": "食用一个熔岩烤鸡"
+}

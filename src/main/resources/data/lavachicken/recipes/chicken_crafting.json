@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "lavachicken:lava_chicken"},
+    {"item": "lavachicken:lava_chicken"},
+    {"item": "lavachicken:lava_chicken"},
+    {"item": "lavachicken:lava_chicken"},
+    {"item": "minecraft:water_bucket"}
+  ],
+  "result": {
+    "item": "minecraft:cooked_chicken",
+    "count": 4
+  }
+}

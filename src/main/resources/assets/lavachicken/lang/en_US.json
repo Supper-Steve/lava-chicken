@@ -1,0 +1,12 @@
+{
+  "creativetab.lavachicken.creativetab": "Lava Chicken",
+
+  "item.lava_chicken.name": "Lava Chicken",
+  "item.lava_chicken.tooltip" : "This chicken seems very hot.",
+
+  "item.obsidian_chicken.name": "Obsidian Chicken",
+  "item.obsidian_chicken.tooltip" : "What are you doing? Are you sure you want to eat this?",
+
+  "advancements.lavachicken.lava_chicken.title": "Iron Stomach",
+  "advancements.lavachicken.lava_chicken.description": "Eat a lava chicken"
+}
